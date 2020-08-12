@@ -1,0 +1,210 @@
+{
+  "categorias": [
+    {
+      "titulo": "Pyladies Recife",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#FF1493",
+      "link_extra": {
+        "text": "Yes, we can do IT! - PyLadies Recife",
+        "url": "https://www.youtube.com/watch?v=z7WMb6UOqBE"
+      },
+      "videos": [
+        {
+          "titulo": "PyLadies e Django Girls promovendo a diversidade na tecnologia - Pyladies Brasil",
+          "url": "https://www.youtube.com/watch?v=y2syVuMQqrQ"
+        },
+        {
+          "titulo": "PyLadiesRecife",
+          "url": "https://www.youtube.com/watch?v=QDpYmu1-7KM"
+        },
+        {
+          "titulo": "1o Encontro Presencial: Resumo do evento ",
+          "url": "https://www.youtube.com/watch?v=hVcM9OJs3-c&t=186s"
+        },
+        {
+          "titulo": "2o Encontro: Grupo de Estudo PyLadies Recife ",
+          "url": "https://www.youtube.com/watch?v=SyFdSo6-NX0"
+        },
+        {
+          "titulo": "UX design na prototipagem de softwares e aplicativos: por onde começar?",
+          "url": "https://www.youtube.com/watch?v=DRoxSsaGkJ8"
+        },
+        {
+          "titulo": "Você se sente uma fraude? Vem entender o que é síndrome da impostora ",
+          "url": "https://www.youtube.com/watch?v=nTPNcih6yFs"
+        },
+        {
+          "titulo": "Mão na massa sem pantim com Python, visse?!: como fazer o jogo pedra, papel e tesoura ",
+          "url": "https://www.youtube.com/watch?v=ZotnLb2ouj4"
+        },
+        {
+          "titulo": "A jornada da desenvolvedora de software: habilidades para ir além nessa carreira  ",
+          "url": "https://www.youtube.com/watch?v=pyotfJkYJ8s"
+        },
+        {
+          "titulo": "Flask: é verdade isso de “Micro” num “Microframework”? ",
+          "url": "https://www.youtube.com/watch?v=YYo9aFxZl20"
+        }            
+      ]
+    },
+    {
+      "titulo": "Pyladies Brasil",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Série Papo entre pyladies",
+        "url": "https://www.youtube.com/watch?v=NvXY_dTGW9c"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=C8tmN2Tu76o"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=-HVz_XrVa8c"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=SkquoA4UOYY"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=KihAwc0UpfE"
+        }, 
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=PKik9Aag4KA"
+        }
+      ]
+    },
+    {
+      "titulo": "Pyladies São Paulo",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "Eventos Online: Temos um papel na Saúde Mental?",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=LghF8-uwBEk"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=4LSBHvCPWwc"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=a1TyTHMpHI4"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=6HGxDFxJceE"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=Qf-UyaOb7Xw"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=xzrt6noI8bw"
+        }
+      ]
+    },
+    {
+      "titulo": "Pyladies Salvador",
+      "cor": "#FFA500",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=02-HjDZfFTI"
+        },
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=K3Ei3ecX00k"
+        }
+      ]
+    },
+    {
+      "titulo": "Pyladies Rio",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "[ONLINE] Pyladies Rio Meetup de Abril: Infra & DevOps ",
+        "url": "https://www.youtube.com/watch?v=H0mnLizeQxo"
+      },
+      "videos": [
+        {
+          "titulo": "[ONLINE] Pyladies Rio Meetup de Abril: Infra & DevOps  ",
+          "url": "https://www.youtube.com/watch?v=H0mnLizeQxo"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Pyladies São Luís",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "  ",
+          "url": "https://www.youtube.com/watch?v=FgwIgKaesk8"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Pyladies Belo Horizonte",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "Curso de Programação em Python para Iniciantes - Aula 02 - PyLadies BH  ",
+        "url": "https://www.youtube.com/watch?v=O2xKiMl-d7Y"
+      },
+      "videos": [
+        {
+          "titulo": "  ",
+          "url": "https://www.youtube.com/watch?v=O2xKiMl-d7Y"
+        },
+        {
+          "titulo": "  ",
+          "url": "https://www.youtube.com/watch?v=U1fHXe7h67M"
+        }
+      ]
+    },
+ 
+    {
+      "titulo": "Pyladies Teresina",
+      "cor": "yellow",
+      "link_extra": {
+        "text": "MC Python e as Gêmeas Programação - Envolvimento com o Python [Paródia Envolvimento]",
+        "url": "https://www.youtube.com/watch?v=O2xKiMl-d7Y"
+      },
+      "videos": [
+        {
+          "titulo": "MC Python e as Gêmeas Programação - Envolvimento com o Python [Paródia Envolvimento]",
+          "url": "https://www.youtube.com/watch?v=AU8ZsLns5_0"
+        }
+      ]
+    },
+    {
+      "titulo": "Pyladies Parnaíba",
+      "cor": "#8B008B",
+      "link_extra": {
+        "text": "[LIVE] Análise de Dados e Forró - Dois amores, duas paixões  ",
+        "url": "https://www.youtube.com/watch?v=casxaSGL5VA"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=casxaSGL5VA"
+        }
+      ]
+    }
+  ]
+}

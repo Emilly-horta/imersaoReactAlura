@@ -1,0 +1,265 @@
+{
+  "categorias": [
+    {
+      "id": 0,
+      "titulo": "Pyladies",
+      "cor": "#ff6a00",
+      "link_extra": {
+        "text": "O PyLadies é uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Queremos mudar essa realidade de poucas garotas em uma área tão rica e fantástica como a computação.",
+        "url": "https://www.youtube.com/watch?v=y2syVuMQqrQ&feature=emb_logo"
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Pyladies Parnaíba",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 1,
+      "titulo": "Pyladies Recife",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Pyladies Brasil",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Pyladies São Paulo",
+      "cor": "#FFA500",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Pyladies Salvador",
+      "cor": "#DC143C",
+      "link_extra": {
+        "text": "",
+        "url": ""
+
+    }
+  },
+  {
+    "id": 5,
+    "titulo": "Pyladies Rio",
+    "cor": "#DC143C",
+    "link_extra": {
+      "text": "",
+      "url": ""
+
+  }
+  },
+  {
+    "id": 6,
+    "titulo": "Pyladies São Luis",
+    "cor": "#DC143C",
+    "link_extra": {
+      "text": "",
+      "url": ""
+
+  }
+  },
+  {
+    "id": 7,
+    "titulo": "Pyladies Belo Horizonte",
+    "cor": "yellow",
+    "link_extra": {
+      "text": "",
+      "url": ""
+
+  }
+  },
+  {
+    "id": 8,
+    "titulo": "Pyladies Teresina",
+    "cor": "#8B008B",
+    "link_extra": {
+      "text": "",
+      "url": ""
+
+  }
+  }
+  ],
+  "videos": [
+    {
+      "id": 50,
+      "categoriaId": 6,
+      "titulo": "",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=FgwIgKaesk8"
+    },
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "1o Encontro Presencial: Resumo do evento",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=hVcM9OJs3-c&t=186s"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "2o Encontro: Grupo de Estudo PyLadies Recife",
+      "url": "https://www.youtube.com/watch?v=SyFdSo6-NX0"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "UX design na prototipagem de softwares e aplicativos: por onde começar?",
+      "url": "https://www.youtube.com/watch?v=DRoxSsaGkJ8"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Você se sente uma fraude? Vem entender o que é síndrome da impostora",
+      "url": "https://www.youtube.com/watch?v=nTPNcih6yFs"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Mão na massa sem pantim com Python, visse?!: como fazer o jogo pedra, papel e tesoura",
+      "url": "https://www.youtube.com/watch?v=ZotnLb2ouj4"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "A jornada da desenvolvedora de software: habilidades para ir além nessa carreira",
+      "url": "https://www.youtube.com/watch?v=pyotfJkYJ8s"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Flask: é verdade isso de “Micro” num “Microframework”?",
+      "url": "https://www.youtube.com/watch?v=YYo9aFxZl20"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=C8tmN2Tu76o"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=-HVz_XrVa8c"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=SkquoA4UOYY"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=KihAwc0UpfE"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=PKik9Aag4KA"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=LghF8-uwBEk"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=4LSBHvCPWwc"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=a1TyTHMpHI4"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=6HGxDFxJceE"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=Qf-UyaOb7Xw"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=xzrt6noI8bw"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=02-HjDZfFTI"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=K3Ei3ecX00k"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=H0mnLizeQxo"
+    },
+    {
+      "id": 22,
+      "categoriaId": 6,
+      "titulo": "https://www.youtube.com/watch?v=FgwIgKaesk8",
+      "url": ""
+    },
+    {
+      "id": 23,
+      "categoriaId": 7,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=O2xKiMl-d7Y"
+    },
+    {
+      "id": 24,
+      "categoriaId": 7,
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=U1fHXe7h67M"
+    },
+    {
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=AU8ZsLns5_0",
+      "categoriaId": 8,
+      "id": 52
+    },
+    {
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=casxaSGL5VA",
+      "categoriaId": 9,
+      "id": 53
+    }
+  ]
+}
